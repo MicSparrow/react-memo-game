@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #dfdfdf;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+button {
+  background-color: red;
+  color: white;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-div {
+  text-align: center;
+}
